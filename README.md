@@ -1,6 +1,6 @@
 Postman Booking API 
 
-Postman: 
+# Description: 
 A comprehensive tool for creating, organizing, and executing API tests, ensuring the reliability and functionality of the application.
 JavaScript (Node.js): 
 Leveraged for scripting within Postman tests, facilitating automation of validation and execution processes, enhancing efficiency and accuracy.
